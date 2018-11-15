@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/ReadOnlyRangesInCodeExample/Form1.cs) (VB: [Form1.vb](./VB/ReadOnlyRangesInCodeExample/Form1.vb))
+* [UserListService.cs](./CS/ReadOnlyRangesInCodeExample/UserListService.cs) (VB: [UserListService.vb](./VB/ReadOnlyRangesInCodeExample/UserListService.vb))
+<!-- default file list end -->
 # Protection - How to programmatically create a protected document and apply range permissions
 
 
